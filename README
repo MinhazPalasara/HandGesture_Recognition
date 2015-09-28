@@ -1,0 +1,14 @@
+#################HOW to RUN the PROJECT###########################
+1) Download node.js and install it, check installtion by running the command "node"
+
+2) Run the http server using node server.js script
+		Run: node server.js
+		
+3) If Error: "cannot find module mime" 
+			 run command: npm install mime
+			 
+4) Now, start the server with "node server.js"
+
+5) Access the application through http://localhost:5000/GestureRecognition.html 
+   Change the filename in the above link to access functionalities of other files.
+
