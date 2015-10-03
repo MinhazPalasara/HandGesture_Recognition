@@ -1,4 +1,8 @@
-#################HOW to RUN the PROJECT###########################
+# Hand Gesture Recognition
+For details on the project implemetation please see the Hand_Gesture_recognition.pdf file.
+
+
+# How to run the Application
 1) Download node.js and install it, check installtion by running the command "node"
 
 2) Run the http server using node server.js script
@@ -11,4 +15,5 @@
 
 5) Access the application through http://localhost:5000/GestureRecognition.html 
    Change the filename in the above link to access functionalities of other files.
+   
 
